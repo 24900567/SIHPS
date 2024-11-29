@@ -14,8 +14,8 @@ The Government of Gujarat, a visionary force in fostering innovation and develop
 
 ## Proposed Solution / Architecture Diagram
 
+![alt text](img.jpg)
 
-![alt text](../img.jpg)
 
 The proposed Alumni Association platform will be a cutting-edge solution, seamlessly integrating web and mobile applications to provide a holistic and user-centric experience. The architecture will be designed to ensure scalability, security, and optimal performance. Key components of the solution include:
  * Centralized Database: A robust database to store and manage alumni profiles, donations, event details, and other relevant information.
